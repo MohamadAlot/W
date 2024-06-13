@@ -1,0 +1,30 @@
+body {
+  text-align: center;
+}
+
+#myCanvas {
+  border: 2px solid black;
+}
+
+#dragon-img {
+  display: none;
+}
+#dragon-img2 {
+  display: none;
+}
+#dragon-img3 {
+  display: none;
+}
+#dragon-img4 {
+  display: none;
+}
+#island-img4 {
+  display: none;
+}
+
+#island-img3 {
+  display: none;
+}
+#bird-img3 {
+  display: none;
+}
